@@ -20,7 +20,7 @@ const database = {
         {
             id: 2,
             name: "Bad Guy 2",
-            power; "Bad breath"
+            power: "Bad breath"
         }
     ]
 }
